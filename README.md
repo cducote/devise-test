@@ -24,17 +24,17 @@ This was my attempt to get a working authorization for a rails application. I wa
 
 ## What
 
--- Devise is a flexible authentication solution for Rails applications
--- I believe that Devise would easiest be used by someone who is REALLY familiar with Ruby on Rails applications, it is well documented, there are even multiple videos on how to setup and use it. 
+* Devise is a flexible authentication solution for Rails applications
+* I believe that Devise would easiest be used by someone who is REALLY familiar with Ruby on Rails applications, it is well documented, there are even multiple videos on how to setup and use it. 
 
 ## Why
 
--- i chose this tech to look into because my passion project revolves around users and posts, and my instructor suggested i start here to find get users that have posts and also locations (cities)
+* i chose this tech to look into because my passion project revolves around users and posts, and my instructor suggested i start here to find get users that have posts and also locations (cities)
 
 ## How
 
--- its super simple to setup, it makes creating a user model reaalllllly fast.
--- i attempted to get users to have posts but ran into issues, i believe i could scrap it and start over and be more carefull with my migrations and it might solve the error.
+* its super simple to setup, it makes creating a user model reaalllllly fast.
+* i attempted to get users to have posts but ran into issues, i believe i could scrap it and start over and be more carefull with my migrations and it might solve the error.
 
 
 

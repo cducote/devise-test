@@ -1,0 +1,11 @@
+<h1>Posts  <a href="/posts/new">(+)</a></h1>
+<hr>
+
+<% @posts.map do |post| %>
+
+
+<a href="/posts/<%=post.id%>"><%= post.title %></a>
+<p><%=post.content%></p>
+
+
+<% end %>
